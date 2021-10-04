@@ -1,4 +1,5 @@
 # resturant-test-app
+This is a basic restaurant app built with vuejs 3 and json server
 
 ## Project setup
 ```
@@ -22,3 +23,4 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+See [Configuration Reference for Json Server](https://www.npmjs.com/package/json-server).

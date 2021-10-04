@@ -1,0 +1,48 @@
+{
+  "users": [
+    {
+      "name": "Commodo",
+      "email": "rutaqoqe@mailinator.com",
+      "password": "Pa$$w0rd!",
+      "id": 1
+    },
+    {
+      "name": "Corporis",
+      "email": "ruvozu@mailinator.com",
+      "password": "Pa$$w0rd!",
+      "id": 2
+    },
+    {
+      "name": "Quaerat",
+      "email": "bolaquc@mailinator.com",
+      "password": "Pa$$w0rd!",
+      "id": 3
+    },
+    {
+      "name": "Rihanna Miguel",
+      "email": "vakewaca@mailinator.com",
+      "password": "Pa$$w0rd!",
+      "id": 4
+    }
+  ],
+  "restaurants": [
+    {
+      "name": "Burger King",
+      "address": "Atlanta Vickon",
+      "contact": "07065466935",
+      "id": 1
+    },
+    {
+      "name": "Macon Rice",
+      "address": "Enim fugiat praesen",
+      "contact": "09090314096",
+      "id": 2
+    },
+    {
+      "name": "Hubmart Restaurant",
+      "address": "Admiralty Road, Lekki Phase 1",
+      "contact": "08047588372",
+      "id": 3
+    }
+  ]
+}
